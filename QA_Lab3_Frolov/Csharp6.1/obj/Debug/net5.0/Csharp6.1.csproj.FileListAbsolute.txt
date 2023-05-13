@@ -1,0 +1,16 @@
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.exe
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.deps.json
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.runtimeconfig.json
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.runtimeconfig.dev.json
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.dll
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\ref\Csharp6.1.dll
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\bin\Debug\net5.0\Csharp6.1.pdb
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.csproj.AssemblyReference.cache
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.AssemblyInfoInputs.cache
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.AssemblyInfo.cs
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.csproj.CoreCompileInputs.cache
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.dll
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\ref\Csharp6.1.dll
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.pdb
+D:\3 курс\Тушев\Лабы\LAB6\Csharp6.1\Csharp6.1\obj\Debug\net5.0\Csharp6.1.genruntimeconfig.cache

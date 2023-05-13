@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hu8CPPpRfXCN3Q2B8G6G/qf9QwMfAWd3wPhmFdthAnP+ob21kdEu9Mqa6h04An+UmQkmg0DXpbKdeTzQSEQ9Ow==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\5 семестр\\Тушев\\Лабы\\LAB6\\Csharp6.1\\Csharp6.1\\Csharp6.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drend\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\drend\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\drend\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\drend\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
